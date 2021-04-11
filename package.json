@@ -1,0 +1,14 @@
+{
+  "name": "armedbandit",
+  "version": "1.0.0",
+  "description": "Simple slot machine using cocos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.0"
+  }
+}

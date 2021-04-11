@@ -1,6 +1,8 @@
 # Armed Bandit (Slot Machine)
 Built with Cocos Creator V2.4.4, inspired by https://github.com/FlavioFS/slot-test-client/tree/dependabot/npm_and_yarn/slotclient/axios-0.21.1
+
 ![alt text](https://github.com/NigelCusc/ArmedBandit/blob/main/armed_bandit_image.jpg?raw=true)
+
 Nigel Cuschieri
 
 ## Functionality:
